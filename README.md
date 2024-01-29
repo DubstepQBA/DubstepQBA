@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DevEsay-Framework](https://github.com/DubstepQBA/DevEsay-Framework)
 
-- 📫 How to reach me **javierfreelancejob@gmail.com**
+- 📫 How to reach me **dubstepalfaro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
