@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Alfaro</h1>
 <h3 align="center">Profesional in my work. Capacity for Front-end - Backend web .Open to learning new technologies and skills</h3>
 
-- 🔭 I’m currently working on [DevEsay-Framework](https://github.com/DubstepQBA/DevEsay-Framework)
+
 
 - 📫 How to reach me **dubstepalfaro@gmail.com**
 
